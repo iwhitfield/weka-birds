@@ -1,7 +1,7 @@
 .idea/
 
 learnings/
-
+target/
 tmp/
 
 build.xml
